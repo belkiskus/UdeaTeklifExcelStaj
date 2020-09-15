@@ -1,0 +1,17 @@
+C:\Users\Belkıs\source\repos\ExcelStajProjesi\ExcelStajProjesi\bin\Release\ExcelStajProjesi.exe.config
+C:\Users\Belkıs\source\repos\ExcelStajProjesi\ExcelStajProjesi\bin\Release\ExcelStajProjesi.exe
+C:\Users\Belkıs\source\repos\ExcelStajProjesi\ExcelStajProjesi\bin\Release\ExcelStajProjesi.pdb
+C:\Users\Belkıs\source\repos\ExcelStajProjesi\ExcelStajProjesi\bin\Release\ExcelDataReader.DataSet.dll
+C:\Users\Belkıs\source\repos\ExcelStajProjesi\ExcelStajProjesi\bin\Release\ExcelDataReader.dll
+C:\Users\Belkıs\source\repos\ExcelStajProjesi\ExcelStajProjesi\bin\Release\ExcelDataReader.pdb
+C:\Users\Belkıs\source\repos\ExcelStajProjesi\ExcelStajProjesi\bin\Release\ExcelDataReader.xml
+C:\Users\Belkıs\source\repos\ExcelStajProjesi\ExcelStajProjesi\bin\Release\ExcelDataReader.DataSet.pdb
+C:\Users\Belkıs\source\repos\ExcelStajProjesi\ExcelStajProjesi\bin\Release\ExcelDataReader.DataSet.xml
+C:\Users\Belkıs\source\repos\ExcelStajProjesi\ExcelStajProjesi\obj\Release\ExcelStajProjesi.csprojAssemblyReference.cache
+C:\Users\Belkıs\source\repos\ExcelStajProjesi\ExcelStajProjesi\obj\Release\ExcelStajProjesi.Form1.resources
+C:\Users\Belkıs\source\repos\ExcelStajProjesi\ExcelStajProjesi\obj\Release\ExcelStajProjesi.Properties.Resources.resources
+C:\Users\Belkıs\source\repos\ExcelStajProjesi\ExcelStajProjesi\obj\Release\ExcelStajProjesi.csproj.GenerateResource.cache
+C:\Users\Belkıs\source\repos\ExcelStajProjesi\ExcelStajProjesi\obj\Release\ExcelStajProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Belkıs\source\repos\ExcelStajProjesi\ExcelStajProjesi\obj\Release\ExcelStajProjesi.csproj.CopyComplete
+C:\Users\Belkıs\source\repos\ExcelStajProjesi\ExcelStajProjesi\obj\Release\ExcelStajProjesi.exe
+C:\Users\Belkıs\source\repos\ExcelStajProjesi\ExcelStajProjesi\obj\Release\ExcelStajProjesi.pdb
