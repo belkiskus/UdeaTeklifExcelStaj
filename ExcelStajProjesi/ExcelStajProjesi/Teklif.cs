@@ -34,7 +34,7 @@ namespace ExcelStajProjesi
         public string siparis_miktarı { get; set; }
 
 
-
+        // Teklif Olusturma metodu
         public static List<Teklif> teklif_listesi_olustur(DataTable dTable)
         {
             List<Teklif> teklifList = new List<Teklif>();
